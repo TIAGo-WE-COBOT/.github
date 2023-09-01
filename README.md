@@ -20,7 +20,11 @@ cd ~/hri_ws
 The script simply sets an environment variable $HRI_VENV, which contains the path to the virtual environment. This allows the path to be read from launch files (in an `<optenv>` tag), so to execute scripts against the proper interpreter (set via `launch-prefix` argument in `<node>` tgas) without altering the "default" `#!/usr/bin/env python` shebang. The aim of this implementation is to have a cleaner organization and hopefully to ease portability. 
 
 ## `reset_ntp.sh`
-The `reset_ntp.sh` script is used to reset the NTP daemon on TIAGo PC in a one-liner fashion. To use it, simply run with
+The `reset_ntp.sh` script is used to reset the NTP daemon on TIAGo PC in a one-liner fashion. To use it, you need to install `sshpass` via
+```
+sudo apt-get sshpass
+```
+Then, simply run the script with
 ```
 . reset_ntp.sh
 ```
