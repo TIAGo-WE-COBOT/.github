@@ -6,7 +6,7 @@ The organization is created to share resources with the researchers and students
 
 ## References ✍️
 Below you can find a list of journal and conference papers about the activity with the TIAGo robot.
-### Journals
+### Journals 📰
 - Pozzi, Luca & Gandolla, Marta & Pura, Filippo & Maccarini, Marco & Pedrocchi, Alessandra & Braghin, Francesco & Piga, Dario & Roveda, Loris. (2022). _Grasping learning, optimization, and knowledge transfer in the robotics field_. Scientific Reports. 12. [10.1038/s41598-022-08276-z](https://doi.org/10.1038/s41598-022-08276-z). 
 ```bib
 @article{article,
@@ -20,6 +20,20 @@ journal = {Scientific Reports},
 doi = {10.1038/s41598-022-08276-z}
 }
 ```
+
+- Pozzi, Luca & Guerini, Silvia & Arrigoni, Stefano & Pedrocchi, Alessandra & Gandolla, Marta. (2023). _A Robotic Assistant for Disabled Chess Players in Competitive Games_. International Journal of Social Robotics. [10.1007/s12369-023-01069-y](https://doi.org/10.1007/s12369-023-01069-y)
+```bib
+@article{article,
+author = {Pozzi, Luca and Guerini, Silvia and Arrigoni, Stefano and Pedrocchi, Alessandra and Gandolla, Marta},
+year = {2023},
+month = {11},
+pages = {},
+title = {A Robotic Assistant for Disabled Chess Players in Competitive Games},
+volume = {},
+journal = {International Journal of Social Robotics},
+doi = {10.1007/s12369-023-01069-y}
+```
+
 - Karas, Kaan & Pozzi, Luca & Pedrocchi, Alessandra & Braghin, Francesco & Roveda, Loris. (2023). _Brain-computer interface for robot control with eye artifacts for assistive applications_. Scientific Reports. 13. [10.1038/s41598-023-44645-y](http://dx.doi.org/10.1038/s41598-023-44645-y).
 ```bib
 @article{article,
@@ -33,7 +47,7 @@ journal = {Scientific Reports},
 doi = {10.1038/s41598-023-44645-y}
 }
 ```
-### Conferences
+### Conferences 💬
 - Pozzi, Luca & Gandolla, Marta & Roveda, Loris. (2022). _Pointing Gestures for Human-Robot Interaction in Service Robotics: A Feasibility Study_. 
 Joint International Conference on Digital Inclusion, Assistive Technology & Accessibility - ICCHP-AAATE 2022. [10.1007/978-3-031-08645-8_54](https://doi.org/10.1007/978-3-031-08645-8_54). 
 ```bib
