@@ -4,12 +4,8 @@ Collection of the ROS and ROS2 packages developed in the research activity with 
 ## Description
 The organization is created to share resources with the researchers and students working with the TIAGo robot at the WE-COBOT lab. Although keeping an eye on general-purposeness, the code in this repo is meant to be TIAGo-specific and the packages are often interdependent.
 
-<!--## Package list
-Package | Description | ROS version | Status
-|:---:|:---:|:---:|:---:|
-something | . | 1 | Not maintained
-
-More packages are available in *Archived packages*.-->
+## Repositories
+[Click here to see a list of repositories implemented in this organization](./docs/tiago_repos_table.md).
 
 ## References ✍️
 Below you can find a list of journal and conference papers about the activity with the TIAGo robot.
